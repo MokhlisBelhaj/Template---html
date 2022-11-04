@@ -122,9 +122,9 @@ a:focus {
 }
 
 .navbar-brand img {
-  width:9%;
-  margin-top: 100px;
-  position:absolute;
+  width: 108PX;
+  MARGIN-TOP: -16px;
+  /* position: absolute; */
 }
 
 .navbar-brand span {
@@ -1016,7 +1016,7 @@ box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.85) 0%, #FBB535 100%);
 }
 
-@media screen and (max-width: 700px) {
+/* @media screen and (max-width: 991px) {
   .contact {
     display: flex;
     flex-direction: column;
@@ -1031,5 +1031,5 @@ box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
 
   }
 
-}
+} */
 /*# sourceMappingURL=style.css.map */

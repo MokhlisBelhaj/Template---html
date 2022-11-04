@@ -18,6 +18,19 @@
   .price_section .price_container .box {
     height: 450px;
   }
+  .contact {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 300px;
+    align-items: center;
+  }
+  .send{
+    font-size: 50%;
+  } 
+  .ga {
+    flex-direction: column;
+
+  }
 }
 
 @media (max-width: 768px) {
